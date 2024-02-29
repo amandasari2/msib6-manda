@@ -1,0 +1,30 @@
+legend {
+  font-size: 15px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  padding: 10px;
+  background-color: rgb(5, 1, 61);
+  color: white;
+  font-weight: bold;
+  border-radius: 10px;
+}
+
+fieldset {
+  border-color: rgba(245, 245, 245, 0);
+  border-width: 1px;
+  border-radius: 10px;
+  background-image: url(../img/link.jpg);
+  background-size: cover;
+}
+
+ul,
+li,
+a {
+  list-style: lower-greek;
+  text-decoration: none;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 12px;
+  margin: auto;
+  padding-bottom: 10px;
+  color: whitesmoke;
+}

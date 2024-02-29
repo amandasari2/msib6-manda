@@ -1,0 +1,47 @@
+body {
+  background-image: url(../img/dir.jpg);
+  background-size: cover;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: cursive;
+  color: whitesmoke;
+  text-align: center;
+}
+
+.tentang {
+  color: whitesmoke;
+  font-size: 20px;
+  font-family: fantasy;
+  background-color: rgb(36, 0, 194);
+  border-radius: 10px;
+}
+
+.saya {
+  border-color: rgb(1, 225, 255);
+  border-width: 1px;
+  border-radius: 10px;
+}
+
+.biodata {
+  color: whitesmoke;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgba(0, 52, 194, 0.568);
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+.profil {
+  border-radius: 10px;
+  border-width: 1px;
+  border-color: rgba(0, 255, 255, 0.459);
+}
+
+p {
+  font-size: 15px;
+  font-family: monospace;
+  color: whitesmoke;
+  padding: auto;
+}

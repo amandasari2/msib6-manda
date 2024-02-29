@@ -1,0 +1,33 @@
+body {
+  background-image: url("../img/pen.jpg");
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: whitesmoke;
+}
+
+table {
+  border: 1px solid aqua;
+  border-radius: 10px;
+  text-align: center;
+  margin: auto;
+  padding: 14px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+  color: whitesmoke;
+}
+
+thead {
+  background-color: blue;
+  padding: 10px;
+}
+
+tr {
+  border: 1px solid blue;
+  padding: 5px;
+}
